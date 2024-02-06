@@ -1,0 +1,14 @@
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\Methodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\Methodes.AssemblyInfoInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\Methodes.AssemblyInfo.cs
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\Methodes.csproj.CoreCompileInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\bin\Debug\net8.0\Methodes.exe
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\bin\Debug\net8.0\Methodes.deps.json
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\bin\Debug\net8.0\Methodes.runtimeconfig.json
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\bin\Debug\net8.0\Methodes.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\bin\Debug\net8.0\Methodes.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\Methodes.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\refint\Methodes.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\Methodes.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\Methodes.genruntimeconfig.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\Methodes\obj\Debug\net8.0\ref\Methodes.dll

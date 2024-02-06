@@ -1,0 +1,14 @@
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\bin\Debug\net8.0\UtilisationDesCollections.exe
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\bin\Debug\net8.0\UtilisationDesCollections.deps.json
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\bin\Debug\net8.0\UtilisationDesCollections.runtimeconfig.json
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\bin\Debug\net8.0\UtilisationDesCollections.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\bin\Debug\net8.0\UtilisationDesCollections.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\UtilisationDesCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\UtilisationDesCollections.AssemblyInfoInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\UtilisationDesCollections.AssemblyInfo.cs
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\UtilisationDesCollections.csproj.CoreCompileInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\UtilisationDesCollections.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\refint\UtilisationDesCollections.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\UtilisationDesCollections.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\UtilisationDesCollections.genruntimeconfig.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\UtilisationDesCollections\obj\Debug\net8.0\ref\UtilisationDesCollections.dll

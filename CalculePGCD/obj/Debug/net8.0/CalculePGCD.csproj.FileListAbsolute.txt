@@ -1,0 +1,14 @@
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\bin\Debug\net8.0\CalculePGCD.exe
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\bin\Debug\net8.0\CalculePGCD.deps.json
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\bin\Debug\net8.0\CalculePGCD.runtimeconfig.json
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\bin\Debug\net8.0\CalculePGCD.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\bin\Debug\net8.0\CalculePGCD.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\CalculePGCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\CalculePGCD.AssemblyInfoInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\CalculePGCD.AssemblyInfo.cs
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\CalculePGCD.csproj.CoreCompileInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\CalculePGCD.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\refint\CalculePGCD.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\CalculePGCD.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\CalculePGCD.genruntimeconfig.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\CalculePGCD\obj\Debug\net8.0\ref\CalculePGCD.dll

@@ -1,0 +1,14 @@
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\bin\Debug\net8.0\Ter.exe
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\bin\Debug\net8.0\Ter.deps.json
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\bin\Debug\net8.0\Ter.runtimeconfig.json
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\bin\Debug\net8.0\Ter.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\bin\Debug\net8.0\Ter.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\Ter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\Ter.AssemblyInfoInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\Ter.AssemblyInfo.cs
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\Ter.csproj.CoreCompileInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\Ter.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\refint\Ter.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\Ter.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\Ter.genruntimeconfig.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\Ter\obj\Debug\net8.0\ref\Ter.dll

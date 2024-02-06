@@ -1,0 +1,14 @@
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\bin\Debug\net8.0\TrouverUnNombre.exe
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\bin\Debug\net8.0\TrouverUnNombre.deps.json
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\bin\Debug\net8.0\TrouverUnNombre.runtimeconfig.json
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\bin\Debug\net8.0\TrouverUnNombre.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\bin\Debug\net8.0\TrouverUnNombre.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\TrouverUnNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\TrouverUnNombre.AssemblyInfoInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\TrouverUnNombre.AssemblyInfo.cs
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\TrouverUnNombre.csproj.CoreCompileInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\TrouverUnNombre.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\refint\TrouverUnNombre.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\TrouverUnNombre.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\TrouverUnNombre.genruntimeconfig.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\TrouverUnNombre\obj\Debug\net8.0\ref\TrouverUnNombre.dll

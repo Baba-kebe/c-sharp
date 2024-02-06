@@ -1,0 +1,14 @@
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\bin\Debug\net8.0\DistributeurDeTicket.exe
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\bin\Debug\net8.0\DistributeurDeTicket.deps.json
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\bin\Debug\net8.0\DistributeurDeTicket.runtimeconfig.json
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\bin\Debug\net8.0\DistributeurDeTicket.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\bin\Debug\net8.0\DistributeurDeTicket.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\DistributeurDeTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\DistributeurDeTicket.AssemblyInfoInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\DistributeurDeTicket.AssemblyInfo.cs
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\DistributeurDeTicket.csproj.CoreCompileInputs.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\DistributeurDeTicket.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\refint\DistributeurDeTicket.dll
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\DistributeurDeTicket.pdb
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\DistributeurDeTicket.genruntimeconfig.cache
+C:\Users\OusmaneKEBE\Desktop\workspace\DistributeurDeTicket\obj\Debug\net8.0\ref\DistributeurDeTicket.dll
